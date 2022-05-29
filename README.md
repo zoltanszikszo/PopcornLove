@@ -3,7 +3,7 @@
 
 ## Deploy on your own
 
-`git clone git@github.com:zoltanszikszo/Personal-Trainer.git`<br>
+`git clone git@github.com:zoltanszikszo/PopcornLove.git`<br>
 `npm install`<br>
 `expo start`<br>
 `Scan the QR Code and open in Expo Go on iOS Device`<br>
